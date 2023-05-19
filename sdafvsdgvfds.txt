@@ -1,0 +1,13 @@
+
+Full texts
+id
+periodid
+price
+randomprice
+result
+randomresult
+color
+randomcolor
+resulttype
+tabtype
+createdate
